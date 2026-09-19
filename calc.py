@@ -6,6 +6,9 @@ def add(a, b):
 def sub(a , b):
     return a - b
 
+def subtraction(a: float, b: float) -> float:
+    return a - b
+
 def power(a , b):
     return a * b
 
